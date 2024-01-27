@@ -1,0 +1,20 @@
+{
+  "name": "A bowl of Ice-cream",
+  "symbol": "NB",
+  "description": "A bowl of ice-cream with two flavours",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Image",
+      "value": "1"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

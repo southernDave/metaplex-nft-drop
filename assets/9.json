@@ -1,0 +1,20 @@
+{
+  "name": "Snowflake",
+  "symbol": "NB",
+  "description": "An image of a snow flake",
+  "image": "9.png",
+  "attributes": [
+    {
+      "trait_type": "Image",
+      "value": "10"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

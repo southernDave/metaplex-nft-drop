@@ -1,0 +1,20 @@
+{
+  "name": "Flame",
+  "symbol": "NB",
+  "description": "A burning flame",
+  "image": "4.png",
+  "attributes": [
+    {
+      "trait_type": "Image",
+      "value": "5"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

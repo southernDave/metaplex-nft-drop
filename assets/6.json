@@ -1,0 +1,20 @@
+{
+  "name": "Pokemon ball",
+  "symbol": "NB",
+  "description": "An Image of a pokemon ball",
+  "image": "6.png",
+  "attributes": [
+    {
+      "trait_type": "Image",
+      "value": "7"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

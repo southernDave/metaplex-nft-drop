@@ -1,0 +1,20 @@
+{
+  "name": "A vector image",
+  "symbol": "NB",
+  "description": "multiple boxes",
+  "image": "5.png",
+  "attributes": [
+    {
+      "trait_type": "Image",
+      "value": "6"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

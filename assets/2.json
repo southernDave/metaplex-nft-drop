@@ -1,0 +1,20 @@
+{
+  "name": "A gold bowl",
+  "symbol": "NB",
+  "description": "some gifts and a bowl",
+  "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "Image",
+      "value": "3"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

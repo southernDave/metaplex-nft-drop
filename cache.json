@@ -1,0 +1,98 @@
+{
+  "program": {
+    "candyMachine": "5Zc38Z2sqG4Zb45ZvWGzMkSMFLwHwSJHrZDigtPpo7Tr",
+    "candyGuard": "6dwkScNpn3yPhhZpjFiQZVjaehnzTcKDJyzV5GuEdF23",
+    "candyMachineCreator": "5KxCaHTiMUpqj9MwsYxn4T9pakHDFW8jfJq4D7r7UsKc",
+    "collectionMint": "A2mwfFx3NuVUKMkoPECJpyLMXUy4wjkXxVHnfiNtLuxL"
+  },
+  "items": {
+    "-1": {
+      "name": "Numbers Collection",
+      "image_hash": "845148a26244b24f37dbaf86270cfe05d28f574c7247383a64c1ad72a130906f",
+      "image_link": "https://arweave.net/eR0jk402YWVrRce3V40iwuEF9Mg0d4gA5ddEKi9NUfQ?ext=png",
+      "metadata_hash": "78315e014d50212b79be1b35e0107bfcb1bbf808815b926e58b829c92a068787",
+      "metadata_link": "https://arweave.net/r4vXmKHy-wjv7LZi24GoXRxZkwu_EPA7trRojDpaopI",
+      "onChain": true
+    },
+    "0": {
+      "name": "Spiderman",
+      "image_hash": "76cba33be6540fc5805137db07268f54e8335582f49e3bbef4921fa08ab98f0c",
+      "image_link": "https://arweave.net/dXBXBhRxTR8JYAbenTs-HcSERWVgxpdvsE5drhhhX4k?ext=png",
+      "metadata_hash": "d1420cafcfe31fee77da82fa587a5d3fe0519fd610a7a7c0e41cbccc9e6f593b",
+      "metadata_link": "https://arweave.net/7IcOMRiNn4KLEO618_fscYl1uc0Gnm5ek6v_S5bs0hA",
+      "onChain": true
+    },
+    "1": {
+      "name": "A bowl of Ice-cream",
+      "image_hash": "facdef66d0dae130d7f27bfef7d9279b48dc96117cfda271703975182763e7b1",
+      "image_link": "https://arweave.net/id4rIqdNwv81vySev2vIw21YTV6KCMZpf08Nm9FnOYs?ext=png",
+      "metadata_hash": "cc706e0712518b09e6539c5df40e29ace9526947e799fe518633bcf7bc4d0574",
+      "metadata_link": "https://arweave.net/G4uFlhSpVNJ9NXeBxA8F-bE3KGOP3FLG0vN_9A2h0XA",
+      "onChain": true
+    },
+    "2": {
+      "name": "A gold bowl",
+      "image_hash": "d93c3e6dbb081a54c59f7f53425c687048476700b1d0cbf55cfe267a8676539c",
+      "image_link": "https://arweave.net/0dtNao4IQ9Suy6JpqiOmJfdUO6VyiKzHQkqQBOmkKvE?ext=png",
+      "metadata_hash": "c015e6847935a06392a3fb05a01a1efb063b5f3ca70ad2fde60eeccc70349773",
+      "metadata_link": "https://arweave.net/4B9jeQh9YsvxhojhHXTRgruIDr-F83fpxiDuQyG46Rc",
+      "onChain": true
+    },
+    "3": {
+      "name": "Coconut trees",
+      "image_hash": "8ad47d633dc6fef25922ce142f7e3174e049dbbaec5c754fc404f26dadd40a85",
+      "image_link": "https://arweave.net/ZM_S93cuKYWk00HLoLGX1pCHXyXntb5FUQN8k61utmQ?ext=png",
+      "metadata_hash": "09414655769fc0b2231ef74c501eee07800fc7a49e0c47d1e2f004202a287c86",
+      "metadata_link": "https://arweave.net/LNEOsMYWg_4qXhe09Gf4q3CBgwGVnYx6RTFx2ud93R4",
+      "onChain": true
+    },
+    "4": {
+      "name": "Flame",
+      "image_hash": "f918656bf4cbfcecdf5d9d493738cdcf00289957b42dae987734251b635ced87",
+      "image_link": "https://arweave.net/Y-inAwPGyAExCKnYOSUcpKvxCl7uAeGZXgP2bmzVGR4?ext=png",
+      "metadata_hash": "b9d072205b578296194410e9c09f62852322dc9328519b8ff1e7ffc3ad663882",
+      "metadata_link": "https://arweave.net/PL47KyNCasrYuE0-5s1FNUUxyR7-qRUQRd-9WTdS1tU",
+      "onChain": true
+    },
+    "5": {
+      "name": "A vector image",
+      "image_hash": "ed3b72cc3895e0bb8fbd46d8fa289205309c52dbdfee9862dd34dce30291408d",
+      "image_link": "https://arweave.net/cr977paDa637O7KgMfX-fcmFpg1-L4OYJwjuaEkO_xc?ext=png",
+      "metadata_hash": "6cd5258a4f163b3fa8d87f642d674168f8706713efbd6d6e635971f25ca626b6",
+      "metadata_link": "https://arweave.net/Z1yo7j21Zmycq7Wb-4XLQgEMuhiKJ1zQDN2nEY1c-hA",
+      "onChain": true
+    },
+    "6": {
+      "name": "Pokemon ball",
+      "image_hash": "d51798b21ff5b91647d90a892e3111092cd03693bf9f002bfb213fd7bbec4f88",
+      "image_link": "https://arweave.net/wWYJcgQubU1qN78DyHQnRasWG2F9SXXnw-YERhC6fuc?ext=png",
+      "metadata_hash": "55ee7da2e15d6b1173abe99536e8f0c563a1019f3c0f9580161dc89dc3e6e54c",
+      "metadata_link": "https://arweave.net/hHsU9vULh_akwOZ2is0U-2hWateFZTL5c643lr5AX_E",
+      "onChain": true
+    },
+    "7": {
+      "name": "Movie",
+      "image_hash": "e9a3dd53fd49793a059401d6cac45e4d2e7b9f0384c590cde15eb0fc053679dd",
+      "image_link": "https://arweave.net/dCNxSiymB3GbzKWnE-BDoTO_-EvqeZXQHL_mEuXQYA0?ext=png",
+      "metadata_hash": "c31ec4d464d5dfd7af2cee1b2aefbcc8fb186a35fe9631fe45e8755c57e844d4",
+      "metadata_link": "https://arweave.net/H6owY68-SXnG75yp8k7NaY0c81mX_6la5YkDQe-Mv4U",
+      "onChain": true
+    },
+    "8": {
+      "name": "Coconut",
+      "image_hash": "1360ce3adebc005d0e47b3f2591529ddca638ea7211e15e150fa782e63f280b4",
+      "image_link": "https://arweave.net/qVaTxwZAHFGERdQiG9UlCpOyafOOWs3ODb6eFYJ4ZSo?ext=png",
+      "metadata_hash": "bc1a879b593a73bf6ced1781af3093af5c22d39b3713c77cd8b0f27bf036ed19",
+      "metadata_link": "https://arweave.net/22J_GRTuNtshfj3X-ElQgq_RmQJzPoVQpgEmdHJIs-k",
+      "onChain": true
+    },
+    "9": {
+      "name": "Snowflake",
+      "image_hash": "69404f8dc1f4b9e258547a6e66f83ff43caa12b31e93953eb0a5f71ce28c74bf",
+      "image_link": "https://arweave.net/APL_ZPS-olc6FDrAQqHC2UsdQyKOfmWNhfdsM-Qskrg?ext=png",
+      "metadata_hash": "c67cd32664812f213b631c27ca66c078e711b10742671d4543877e6a6ef01e6e",
+      "metadata_link": "https://arweave.net/W3I43sXayePjTeaTZfXevqobvFhs81YiLzvArq1MLd4",
+      "onChain": true
+    }
+  }
+}

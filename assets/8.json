@@ -1,0 +1,20 @@
+{
+  "name": "Coconut",
+  "symbol": "NB",
+  "description": "three halves of coconuts",
+  "image": "8.png",
+  "attributes": [
+    {
+      "trait_type": "Image",
+      "value": "9"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
